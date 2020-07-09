@@ -1,6 +1,7 @@
 # HeatWatcher Project
 
 Hello Everyone!
+
 This project is to prevent children from dying of a heat stroke. This solution was created because
 we see many instances of adults/parents leaving their child in a locked, hot car either accidentaly
 or purposely. This can lead to tragic consequences where the child can suffer from a heat stroke.
