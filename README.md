@@ -27,3 +27,7 @@ seperately control the modules. Then, the 3rd program is the final combination o
 
 Of course many improvements can be made. Check em out on "Pull Requests" to find out more!
 - ThePythonAddict
+
+Note!
+  - These programs were origionally built on Thonny Python IDE on Raspberry Pi.
+    This was then transferred to GitHub
