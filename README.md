@@ -15,7 +15,7 @@ as the brains of the operation. Along with a PIR Motion Sensor and a DHT22 Tempe
 I am able to create a system that can detect temperature and motion and send an alert via speaker to
 alert someone that a car is heated up and there is someone inside.
 
-Proof Of Concept
+## Proof Of Concept
 
 If temp sensor detects a temperature over 78 deg F or 25 dec C:
   Check for motion
