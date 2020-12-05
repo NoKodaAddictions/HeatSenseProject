@@ -24,10 +24,3 @@ If temp sensor detects a temperature over 78 deg F or 25 dec C:
 
 What you see are the 3 final files for the modules. PIR and DHT22. The first 2 programs were made to
 seperately control the modules. Then, the 3rd program is the final combination of the 2.
-
-Of course many improvements can be made. Check em out on "Pull Requests" to find out more!
-- ThePythonAddict
-
-Note!
-  - These programs were origionally built on Thonny Python IDE on Raspberry Pi.
-    This was then transferred to GitHub
