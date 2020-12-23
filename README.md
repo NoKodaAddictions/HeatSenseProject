@@ -1,4 +1,4 @@
-# HeatWatcher Project
+# HeatSense Project
 
 Hello Everyone!
 
