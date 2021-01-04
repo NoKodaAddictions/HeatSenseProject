@@ -24,3 +24,7 @@ If temp sensor detects a temperature over 78 deg F or 25 dec C:
 
 What you see are the 3 final files for the modules. PIR and DHT22. The first 2 programs were made to
 seperately control the modules. Then, the 3rd program is the final combination of the 2.
+
+## Update 1.1 Coming Soon!
+Sneak Peek
+<img src="SneekPeek.png" width="300" height="600">
